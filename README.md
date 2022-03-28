@@ -13,7 +13,7 @@ Some resources and records about IELTS for rabbit and penguin.
 
 
 
-:penguin::
+:penguin: :
 
 | :ear: | :eyes: | :open_mouth: | :hand: | Total |
 | :---: | :----: | :----------: | :----: | :---: |
@@ -21,6 +21,13 @@ Some resources and records about IELTS for rabbit and penguin.
 
 
 
-### TODO LIST:
+### TODO List:
 
 https://www.yuque.com/27rabbit/qc3g1r
+
+
+
+### Tips for Exam:
+
+NOT FINISHED YET.
+
